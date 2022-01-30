@@ -6,4 +6,4 @@ Simple game with four buttons and four LEDs. At random time one of LEDs would li
 
 ## Schematic
 
-![Arduino schematic](https://drive.google.com/uc?export=view&id=13tfT3N8aQo6_JLPZnSkF59IVBPfKGIdx)
+![Reaction_Game_Schematic](https://user-images.githubusercontent.com/10974552/151712199-194f6cbc-8118-4bcc-824e-e36aee10bf99.PNG)
